@@ -1,4 +1,5 @@
-﻿int Chetvert(int X, int Y)
+//Проверить является ли одно из чисел квадратом другого
+int Chetvert(int X, int Y)
 {
     int num = 0;
     if (X > 0 && Y > 0) num = 1;
