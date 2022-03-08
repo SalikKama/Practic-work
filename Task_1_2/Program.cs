@@ -1,4 +1,5 @@
-﻿void PrintNumb( int b )
+//Показать числа от -N до N
+void PrintNumb( int b )
 {
     int i = -b;
     while ( i < b + 1 )
