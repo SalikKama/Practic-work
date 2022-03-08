@@ -1,4 +1,5 @@
-﻿void Square( int c, int d)
+//Выяснить является номер дня недели выходным
+void Square( int c, int d)
 {
     if ( c*c == d)
     {
