@@ -1,4 +1,5 @@
-﻿void Weekend( string[] collect, int a)
+//Показать четные числа от 1 до N
+void Weekend( string[] collect, int a)
 {
     if ( collect[a-1] == "Suturday" )
     {
