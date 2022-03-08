@@ -1,4 +1,4 @@
-//Показать четные числа от 1 до N
+//Выяснить является номер дня недели выходным
 void Weekend( string[] collect, int a)
 {
     if ( collect[a-1] == "Suturday" )
